@@ -95,7 +95,7 @@ textarea {
 }
 
 button {
-    padding: 0;
+    padding: 5px;
     border: none;
     background: -internal-light-dark(rgb(239, 239, 239), rgb(59, 59, 59));
     ;
