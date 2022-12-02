@@ -1,5 +1,23 @@
-# Survey_Form
+# Survey_Form  
+  
+## Description
 
-My first html project i did in my bootcamp. You can reach from [here](https://esadakman.github.io/Survey_Form/)
+- My very first html project for understanding HTML forms. 
 
-![survey](https://user-images.githubusercontent.com/98649983/165966845-0cc49688-e127-44c7-be91-6206833ea0c0.jpg)
+### At the end of the project, following topics are to be covered;
+
+- HTML     
+
+### At the end of the project, students will be able to;
+
+- improve coding skills within HTML 
+
+- use git commands (push, pull, commit, add etc.) and Github as Version Control System.
+
+### Project Link 
+
+You can reach from [here](https://esadakman.github.io/html-survey-form/)
+
+ ### Preview of the Project
+
+<img src="./survey-form.jpg" alt="preview"/>
